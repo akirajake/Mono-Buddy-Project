@@ -12,9 +12,9 @@
 
 // ================= ユーザー設定 =================
 
-const char* ssid = "F660P-UdxH-G";              // Wi-FiのSSID
-const char* password = "z543kzku3x3ue";         // Wi-Fiのパスワード
-const char* weatherApiKey = "0e77fe6e67eae38f404078ba8a2461d9"; // OpenWeatherMapのAPIキー
+const char* ssid = "YOUR_SSID";                      // Wi-FiのSSID
+const char* password = "YOUR_PASSWORD";              // Wi-Fiのパスワード
+const char* weatherApiKey = "OPENWEATHERMAP_APIKEY"; // OpenWeatherMapのAPIキー
 
 // ================= オブジェクトと同期制御 =================
 
